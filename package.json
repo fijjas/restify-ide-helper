@@ -1,0 +1,25 @@
+{
+  "name": "restify-ide-helper",
+  "version": "1.0.0",
+  "description": "Restify.js IDE helper",
+  "main": "ide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijjas/restify-ide-helper.git"
+  },
+  "keywords": [
+    "restify",
+    "ide",
+    "helper",
+    "code-completion"
+  ],
+  "author": "Egor Vorozhtsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fijjas/restify-ide-helper/issues"
+  },
+  "homepage": "https://github.com/fijjas/restify-ide-helper#readme"
+}
